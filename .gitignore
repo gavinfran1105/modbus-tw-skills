@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.tags.json
+*.candidates.csv
+*.env
+.DS_Store
