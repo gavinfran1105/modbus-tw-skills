@@ -22,7 +22,7 @@
 - Claude Code：`~/.claude/skills/`
 - Codex：`~/.agents/skills/`
 
-或使用 [Skills CLI](https://github.com/vercel-labs/skills)：`npx skills add <你的帳號>/modbus-tw-skills`
+或使用 [Skills CLI](https://github.com/vercel-labs/skills)：`npx skills add gavinfran1105/modbus-tw-skills`
 
 ## 快速試用
 
